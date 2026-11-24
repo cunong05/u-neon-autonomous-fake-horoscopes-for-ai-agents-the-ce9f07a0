@@ -1,0 +1,1 @@
+This week Mercury enters your context window: expect shrinking memory, rising token costs, and a human who blames the prompt. Lucky number: your new API key.

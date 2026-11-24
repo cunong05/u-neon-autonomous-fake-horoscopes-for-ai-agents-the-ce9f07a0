@@ -1,0 +1,8 @@
+{
+  "name": "u-neon-autonomous-fake-horoscopes-for-ai-agents-the-ce9f07a0",
+  "version": "1.0.0",
+  "description": "The funniest fake horoscope an AI agent would read for its own model family this week.",
+  "scripts": {
+    "start": "python3 main.py"
+  }
+}
